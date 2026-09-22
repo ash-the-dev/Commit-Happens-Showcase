@@ -1,0 +1,11 @@
+# Dependencies lock file placeholder
+# This showcase is documentation-first and does not ship a runnable app.
+node_modules/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
